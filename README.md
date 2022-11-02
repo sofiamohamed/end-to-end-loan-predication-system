@@ -1,1 +1,1 @@
-# end-to-end-loan-predication-system
+# loan-predication-system
